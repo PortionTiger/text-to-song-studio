@@ -1,0 +1,1 @@
+"""Bootstrap layer: process startup, env probing, shell handoff."""
